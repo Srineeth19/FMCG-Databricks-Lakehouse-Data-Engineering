@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32239568/README.md)[Uploading R# End-to-End Data Engineering Project using Databricks Free Edition | FMCG Domain
+#End-to-End Data Engineering Project using Databricks Free Edition | FMCG Domain
 
 An end-to-end data engineering project, built on **Databricks Free Edition**,
 simulating a real industry scenario: **a large FMCG retail company (BigMart
