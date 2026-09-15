@@ -1,0 +1,26 @@
+product_id,product_name,category,brand,unit_price,unit_of_measure
+QM-P0001,Cola 500ml,Beverages,BeveragesCo,540.93,EA
+QM-P0002,Orange Juice 1L,Beverages,BeveragesCo,270.07,EA
+QM-P0003,Mineral Water 1L,Beverages,BeveragesCo,623.37,EA
+QM-P0004,Energy Drink 250ml,Beverages,BeveragesCo,591.48,EA
+QM-P0005,Instant Coffee 100g,Beverages,BeveragesCo,181.15,EA
+QM-P0006,Potato Chips 150g,Snacks,SnacksCo,472.31,EA
+QM-P0007,Salted Peanuts 200g,Snacks,SnacksCo,583.35,EA
+QM-P0008,Choco Cookies 300g,Snacks,SnacksCo,21.46,EA
+QM-P0009,Popcorn 100g,Snacks,SnacksCo,369.1,EA
+QM-P0010,Namkeen Mix 400g,Snacks,SnacksCo,278.92,EA
+QM-P0011,Shampoo 200ml,Personal Care,PersonalCo,64.1,EA
+QM-P0012,Toothpaste 100g,Personal Care,PersonalCo,339.31,EA
+QM-P0013,Bath Soap 125g,Personal Care,PersonalCo,231.72,EA
+QM-P0014,Hand Sanitizer 100ml,Personal Care,PersonalCo,218.6,EA
+QM-P0015,Body Lotion 200ml,Personal Care,PersonalCo,395.86,EA
+QM-P0016,Dish Wash Liquid 500ml,Home Care,HomeCo,448.18,EA
+QM-P0017,Floor Cleaner 1L,Home Care,HomeCo,109.09,EA
+QM-P0018,Laundry Detergent 1kg,Home Care,HomeCo,641.18,EA
+QM-P0019,Air Freshener 300ml,Home Care,HomeCo,175.98,EA
+QM-P0020,Toilet Cleaner 500ml,Home Care,HomeCo,298.04,EA
+QM-P0021,Basmati Rice 5kg,Staples,StaplesCo,594.96,EA
+QM-P0022,Refined Oil 1L,Staples,StaplesCo,621.28,EA
+QM-P0023,Wheat Flour 5kg,Staples,StaplesCo,517.57,EA
+QM-P0024,Sugar 1kg,Staples,StaplesCo,440.82,EA
+QM-P0025,Tea Leaves 250g,Staples,StaplesCo,32.19,EA

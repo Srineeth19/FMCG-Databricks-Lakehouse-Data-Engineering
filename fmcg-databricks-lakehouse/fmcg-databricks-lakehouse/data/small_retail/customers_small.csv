@@ -1,0 +1,801 @@
+customer_id,first_name,last_name,city,state,signup_date,loyalty_segment
+QM-C00001,Anika,Sharma,Mumbai,Maharashtra,2024-05-12,Gold
+QM-C00002,Reyansh,Verma,Lucknow,Uttar Pradesh,2019-12-28,Gold
+QM-C00003,Vivaan,Mehta,Kolkata,West Bengal,2024-09-24,Platinum
+QM-C00004,Saanvi,Verma,Delhi,Delhi,2019-06-24,Silver
+QM-C00005,Sai,Verma,Delhi,Delhi,2023-07-14,Platinum
+QM-C00006,Vihaan,Reddy,Kolkata,West Bengal,2021-05-10,Bronze
+QM-C00007,Anika,Reddy,Pune,Maharashtra,2019-07-03,Platinum
+QM-C00008,Vihaan,Iyer,Bengaluru,Karnataka,2019-07-28,Silver
+QM-C00009,Ananya,Nair,Mumbai,Maharashtra,2023-06-20,Gold
+QM-C00010,Diya,Singh,Ahmedabad,Gujarat,2019-07-05,Platinum
+QM-C00011,Anika,Nair,Ahmedabad,Gujarat,2019-06-17,Silver
+QM-C00012,Arjun,Patel,Jaipur,Rajasthan,2019-02-14,Gold
+QM-C00013,Diya,Verma,Ahmedabad,Gujarat,2020-12-10,Gold
+QM-C00014,Vihaan,Rao,Hyderabad,Telangana,2021-10-06,Platinum
+QM-C00015,Sai,Iyer,Mumbai,Maharashtra,2020-12-06,Silver
+QM-C00016,Aditya,Gupta,Chennai,Tamil Nadu,2022-06-07,Silver
+QM-C00017,Arjun,Mehta,Pune,Maharashtra,2022-03-09,Gold
+QM-C00018,Aadhya,Patel,Chennai,Tamil Nadu,2021-12-14,Bronze
+QM-C00019,Aditya,Gupta,Kolkata,West Bengal,2023-01-13,Gold
+QM-C00020,Anika,Rao,Hyderabad,Telangana,2021-03-16,Gold
+QM-C00021,Ayaan,Verma,Hyderabad,Telangana,2022-02-11,Gold
+QM-C00022,Saanvi,Mehta,Chennai,Tamil Nadu,2021-03-28,Silver
+QM-C00023,Ananya,Sharma,Bengaluru,Karnataka,2023-05-06,Platinum
+QM-C00024,Aarav,Sharma,Chennai,Tamil Nadu,2024-12-29,Gold
+QM-C00025,Vivaan,Mehta,Ahmedabad,Gujarat,2023-07-01,Gold
+QM-C00026,Aarav,Rao,Chennai,Tamil Nadu,2023-09-11,Gold
+QM-C00027,Vihaan,Nair,Jaipur,Rajasthan,2021-04-24,Bronze
+QM-C00028,Krishna,Sharma,Bengaluru,Karnataka,2020-02-12,Gold
+QM-C00029,Anika,Patel,Lucknow,Uttar Pradesh,2020-11-28,Platinum
+QM-C00030,Navya,Patel,Pune,Maharashtra,2021-05-28,Platinum
+QM-C00031,Reyansh,Singh,Pune,Maharashtra,2020-12-01,Silver
+QM-C00032,Vihaan,Nair,Chennai,Tamil Nadu,2021-07-16,Platinum
+QM-C00033,Myra,Verma,Hyderabad,Telangana,2021-09-26,Platinum
+QM-C00034,Ishaan,Patel,Hyderabad,Telangana,2020-05-05,Gold
+QM-C00035,Pari,Gupta,Ahmedabad,Gujarat,2021-11-20,Gold
+QM-C00036,Navya,Rao,Jaipur,Rajasthan,2019-06-01,Bronze
+QM-C00037,Aditya,Nair,Delhi,Delhi,2022-08-08,Platinum
+QM-C00038,Diya,Verma,Pune,Maharashtra,2019-08-30,Gold
+QM-C00039,Riya,Verma,Hyderabad,Telangana,2020-12-20,Platinum
+QM-C00040,Vihaan,Reddy,Delhi,Delhi,2024-09-19,Platinum
+QM-C00041,Diya,Singh,Lucknow,Uttar Pradesh,2020-04-08,Silver
+QM-C00042,Navya,Patel,Mumbai,Maharashtra,2021-11-15,Silver
+QM-C00043,Reyansh,Iyer,Delhi,Delhi,2024-12-24,Gold
+QM-C00044,Sai,Singh,Hyderabad,Telangana,2023-10-03,Platinum
+QM-C00045,Vivaan,Patel,Pune,Maharashtra,2019-11-04,Platinum
+QM-C00046,Aadhya,Rao,Ahmedabad,Gujarat,2022-12-07,Gold
+QM-C00047,Anika,Sharma,Lucknow,Uttar Pradesh,2023-11-14,Silver
+QM-C00048,Ira,Verma,Chennai,Tamil Nadu,2022-08-17,Bronze
+QM-C00049,Ira,Mehta,Ahmedabad,Gujarat,2023-06-13,Platinum
+QM-C00050,Saanvi,Mehta,Lucknow,Uttar Pradesh,2023-06-28,Silver
+QM-C00051,Vihaan,Nair,Pune,Maharashtra,2024-07-20,Bronze
+QM-C00052,Krishna,Nair,Ahmedabad,Gujarat,2019-05-12,Bronze
+QM-C00053,Saanvi,Iyer,Ahmedabad,Gujarat,2024-08-09,Bronze
+QM-C00054,Navya,Gupta,Hyderabad,Telangana,2023-09-20,Silver
+QM-C00055,Aarav,Reddy,Ahmedabad,Gujarat,2024-06-19,Gold
+QM-C00056,Anika,Reddy,Mumbai,Maharashtra,2023-09-17,Bronze
+QM-C00057,Aadhya,Reddy,Kolkata,West Bengal,2021-08-16,Bronze
+QM-C00058,Ira,Nair,Jaipur,Rajasthan,2024-03-25,Silver
+QM-C00059,Anika,Patel,Kolkata,West Bengal,2020-07-06,Bronze
+QM-C00060,Vivaan,Mehta,Pune,Maharashtra,2019-01-05,Gold
+QM-C00061,Reyansh,Nair,Ahmedabad,Gujarat,2024-08-16,Platinum
+QM-C00062,Aadhya,Sharma,Ahmedabad,Gujarat,2019-08-11,Silver
+QM-C00063,Ira,Iyer,Delhi,Delhi,2020-04-05,Bronze
+QM-C00064,Vihaan,Nair,Mumbai,Maharashtra,2020-06-03,Silver
+QM-C00065,Krishna,Verma,Chennai,Tamil Nadu,2022-04-06,Platinum
+QM-C00066,Navya,Nair,Pune,Maharashtra,2024-01-08,Bronze
+QM-C00067,Ira,Patel,Ahmedabad,Gujarat,2023-06-27,Platinum
+QM-C00068,Reyansh,Verma,Ahmedabad,Gujarat,2021-10-20,Bronze
+QM-C00069,Krishna,Rao,Pune,Maharashtra,2023-06-05,Gold
+QM-C00070,Saanvi,Iyer,Hyderabad,Telangana,2023-07-06,Silver
+QM-C00071,Ayaan,Gupta,Pune,Maharashtra,2022-06-08,Platinum
+QM-C00072,Saanvi,Rao,Mumbai,Maharashtra,2024-10-22,Platinum
+QM-C00073,Aditya,Sharma,Bengaluru,Karnataka,2024-05-09,Silver
+QM-C00074,Sai,Singh,Chennai,Tamil Nadu,2022-02-04,Platinum
+QM-C00075,Ira,Singh,Hyderabad,Telangana,2019-07-24,Platinum
+QM-C00076,Krishna,Rao,Mumbai,Maharashtra,2020-01-10,Silver
+QM-C00077,Sai,Patel,Hyderabad,Telangana,2021-01-17,Platinum
+QM-C00078,Pari,Reddy,Lucknow,Uttar Pradesh,2020-08-01,Bronze
+QM-C00079,Riya,Iyer,Delhi,Delhi,2023-01-07,Gold
+QM-C00080,Ishaan,Verma,Pune,Maharashtra,2022-01-27,Silver
+QM-C00081,Ishaan,Iyer,Chennai,Tamil Nadu,2021-03-30,Bronze
+QM-C00082,Aditya,Iyer,Jaipur,Rajasthan,2022-03-31,Platinum
+QM-C00083,Sai,Sharma,Jaipur,Rajasthan,2022-02-16,Silver
+QM-C00084,Aarav,Verma,Mumbai,Maharashtra,2024-11-23,Gold
+QM-C00085,Vihaan,Patel,Lucknow,Uttar Pradesh,2022-05-09,Platinum
+QM-C00086,Ira,Reddy,Ahmedabad,Gujarat,2022-05-19,Silver
+QM-C00087,Aditya,Iyer,Bengaluru,Karnataka,2024-05-27,Gold
+QM-C00088,Anika,Rao,Delhi,Delhi,2021-04-02,Silver
+QM-C00089,Myra,Rao,Pune,Maharashtra,2022-04-11,Bronze
+QM-C00090,Arjun,Sharma,Bengaluru,Karnataka,2021-02-05,Bronze
+QM-C00091,Vihaan,Patel,Ahmedabad,Gujarat,2019-03-07,Bronze
+QM-C00092,Ayaan,Singh,Chennai,Tamil Nadu,2020-04-10,Silver
+QM-C00093,Anika,Patel,Mumbai,Maharashtra,2021-06-03,Gold
+QM-C00094,Navya,Rao,Hyderabad,Telangana,2024-01-29,Bronze
+QM-C00095,Arjun,Singh,Kolkata,West Bengal,2019-06-17,Gold
+QM-C00096,Diya,Rao,Ahmedabad,Gujarat,2022-03-01,Bronze
+QM-C00097,Krishna,Singh,Pune,Maharashtra,2020-01-24,Platinum
+QM-C00098,Ishaan,Mehta,Mumbai,Maharashtra,2023-10-06,Bronze
+QM-C00099,Reyansh,Patel,Pune,Maharashtra,2022-11-20,Platinum
+QM-C00100,Pari,Singh,Jaipur,Rajasthan,2023-04-25,Platinum
+QM-C00101,Diya,Iyer,Pune,Maharashtra,2021-04-20,Silver
+QM-C00102,Sai,Mehta,Pune,Maharashtra,2024-02-13,Silver
+QM-C00103,Pari,Nair,Jaipur,Rajasthan,2021-02-19,Silver
+QM-C00104,Vihaan,Reddy,Bengaluru,Karnataka,2020-09-07,Bronze
+QM-C00105,Pari,Rao,Pune,Maharashtra,2020-09-07,Platinum
+QM-C00106,Ira,Iyer,Lucknow,Uttar Pradesh,2020-12-17,Gold
+QM-C00107,Ayaan,Verma,Kolkata,West Bengal,2023-08-02,Gold
+QM-C00108,Arjun,Mehta,Jaipur,Rajasthan,2019-04-21,Gold
+QM-C00109,Krishna,Nair,Chennai,Tamil Nadu,2023-02-01,Silver
+QM-C00110,Sai,Nair,Kolkata,West Bengal,2023-06-05,Bronze
+QM-C00111,Ira,Patel,Mumbai,Maharashtra,2019-03-22,Silver
+QM-C00112,Ishaan,Iyer,Chennai,Tamil Nadu,2023-08-06,Platinum
+QM-C00113,Ishaan,Patel,Delhi,Delhi,2022-04-22,Gold
+QM-C00114,Saanvi,Sharma,Lucknow,Uttar Pradesh,2021-03-25,Gold
+QM-C00115,Ira,Reddy,Mumbai,Maharashtra,2021-04-28,Silver
+QM-C00116,Ayaan,Iyer,Jaipur,Rajasthan,2023-08-29,Gold
+QM-C00117,Ira,Mehta,Jaipur,Rajasthan,2019-09-20,Bronze
+QM-C00118,Vivaan,Mehta,Mumbai,Maharashtra,2020-09-08,Silver
+QM-C00119,Anika,Mehta,Lucknow,Uttar Pradesh,2020-05-24,Platinum
+QM-C00120,Sai,Gupta,Pune,Maharashtra,2021-02-07,Platinum
+QM-C00121,Aarav,Verma,Mumbai,Maharashtra,2024-03-11,Bronze
+QM-C00122,Myra,Sharma,Lucknow,Uttar Pradesh,2024-05-16,Gold
+QM-C00123,Vivaan,Gupta,Kolkata,West Bengal,2023-09-25,Bronze
+QM-C00124,Aarav,Sharma,Kolkata,West Bengal,2020-04-04,Bronze
+QM-C00125,Ananya,Sharma,Bengaluru,Karnataka,2024-12-19,Platinum
+QM-C00126,Saanvi,Iyer,Hyderabad,Telangana,2022-06-29,Gold
+QM-C00127,Vivaan,Iyer,Bengaluru,Karnataka,2021-02-28,Gold
+QM-C00128,Diya,Patel,Lucknow,Uttar Pradesh,2024-06-21,Silver
+QM-C00129,Reyansh,Sharma,Lucknow,Uttar Pradesh,2021-09-07,Platinum
+QM-C00130,Arjun,Verma,Bengaluru,Karnataka,2022-02-21,Silver
+QM-C00131,Vivaan,Patel,Chennai,Tamil Nadu,2023-10-15,Platinum
+QM-C00132,Ishaan,Nair,Lucknow,Uttar Pradesh,2019-01-22,Gold
+QM-C00133,Vivaan,Verma,Mumbai,Maharashtra,2020-01-12,Bronze
+QM-C00134,Diya,Rao,Delhi,Delhi,2019-07-06,Gold
+QM-C00135,Aditya,Mehta,Pune,Maharashtra,2021-03-13,Silver
+QM-C00136,Vivaan,Iyer,Ahmedabad,Gujarat,2020-02-15,Bronze
+QM-C00137,Diya,Rao,Delhi,Delhi,2021-01-04,Silver
+QM-C00138,Vivaan,Iyer,Lucknow,Uttar Pradesh,2024-12-07,Bronze
+QM-C00139,Aditya,Reddy,Kolkata,West Bengal,2021-01-05,Platinum
+QM-C00140,Arjun,Gupta,Kolkata,West Bengal,2022-10-01,Bronze
+QM-C00141,Aditya,Nair,Kolkata,West Bengal,2020-06-19,Bronze
+QM-C00142,Pari,Singh,Chennai,Tamil Nadu,2021-10-03,Gold
+QM-C00143,Pari,Patel,Mumbai,Maharashtra,2020-04-04,Gold
+QM-C00144,Sai,Nair,Lucknow,Uttar Pradesh,2020-11-25,Gold
+QM-C00145,Sai,Patel,Pune,Maharashtra,2023-12-22,Bronze
+QM-C00146,Ayaan,Nair,Ahmedabad,Gujarat,2024-04-21,Platinum
+QM-C00147,Aadhya,Sharma,Lucknow,Uttar Pradesh,2022-03-12,Silver
+QM-C00148,Aarav,Gupta,Hyderabad,Telangana,2020-05-23,Gold
+QM-C00149,Riya,Verma,Jaipur,Rajasthan,2019-03-26,Gold
+QM-C00150,Myra,Patel,Jaipur,Rajasthan,2022-05-18,Silver
+QM-C00151,Ayaan,Sharma,Mumbai,Maharashtra,2021-05-28,Bronze
+QM-C00152,Krishna,Singh,Lucknow,Uttar Pradesh,2019-02-15,Gold
+QM-C00153,Navya,Rao,Bengaluru,Karnataka,2021-03-14,Platinum
+QM-C00154,Saanvi,Verma,Bengaluru,Karnataka,2022-11-17,Silver
+QM-C00155,Reyansh,Mehta,Jaipur,Rajasthan,2023-12-12,Platinum
+QM-C00156,Navya,Singh,Chennai,Tamil Nadu,2023-11-14,Platinum
+QM-C00157,Riya,Patel,Hyderabad,Telangana,2020-10-30,Bronze
+QM-C00158,Ayaan,Patel,Kolkata,West Bengal,2020-05-05,Silver
+QM-C00159,Krishna,Reddy,Kolkata,West Bengal,2022-12-06,Bronze
+QM-C00160,Navya,Iyer,Lucknow,Uttar Pradesh,2019-08-19,Silver
+QM-C00161,Ananya,Reddy,Mumbai,Maharashtra,2021-06-20,Silver
+QM-C00162,Reyansh,Nair,Mumbai,Maharashtra,2021-07-15,Gold
+QM-C00163,Pari,Reddy,Lucknow,Uttar Pradesh,2023-06-11,Silver
+QM-C00164,Ishaan,Singh,Lucknow,Uttar Pradesh,2020-02-26,Gold
+QM-C00165,Aditya,Gupta,Ahmedabad,Gujarat,2024-08-06,Bronze
+QM-C00166,Saanvi,Nair,Delhi,Delhi,2021-12-20,Gold
+QM-C00167,Arjun,Nair,Delhi,Delhi,2023-07-25,Bronze
+QM-C00168,Diya,Nair,Ahmedabad,Gujarat,2021-10-25,Gold
+QM-C00169,Riya,Singh,Hyderabad,Telangana,2019-09-20,Bronze
+QM-C00170,Krishna,Patel,Hyderabad,Telangana,2023-12-27,Platinum
+QM-C00171,Ayaan,Nair,Ahmedabad,Gujarat,2024-11-15,Platinum
+QM-C00172,Ananya,Mehta,Lucknow,Uttar Pradesh,2022-11-23,Silver
+QM-C00173,Arjun,Rao,Hyderabad,Telangana,2022-01-21,Silver
+QM-C00174,Aarav,Sharma,Delhi,Delhi,2023-02-13,Bronze
+QM-C00175,Navya,Rao,Bengaluru,Karnataka,2023-03-21,Bronze
+QM-C00176,Vivaan,Mehta,Delhi,Delhi,2019-04-07,Platinum
+QM-C00177,Ayaan,Gupta,Kolkata,West Bengal,2024-11-16,Bronze
+QM-C00178,Krishna,Reddy,Jaipur,Rajasthan,2019-06-11,Gold
+QM-C00179,Ayaan,Nair,Mumbai,Maharashtra,2023-07-20,Bronze
+QM-C00180,Anika,Singh,Kolkata,West Bengal,2024-02-05,Platinum
+QM-C00181,Riya,Verma,Lucknow,Uttar Pradesh,2022-02-03,Bronze
+QM-C00182,Ishaan,Reddy,Bengaluru,Karnataka,2021-08-23,Gold
+QM-C00183,Riya,Mehta,Bengaluru,Karnataka,2019-04-04,Gold
+QM-C00184,Pari,Singh,Ahmedabad,Gujarat,2019-10-11,Gold
+QM-C00185,Riya,Reddy,Delhi,Delhi,2022-10-28,Platinum
+QM-C00186,Aditya,Rao,Jaipur,Rajasthan,2023-05-15,Silver
+QM-C00187,Diya,Mehta,Lucknow,Uttar Pradesh,2023-08-12,Bronze
+QM-C00188,Aditya,Rao,Hyderabad,Telangana,2021-12-10,Bronze
+QM-C00189,Pari,Iyer,Chennai,Tamil Nadu,2023-04-09,Platinum
+QM-C00190,Sai,Iyer,Lucknow,Uttar Pradesh,2020-10-20,Silver
+QM-C00191,Anika,Singh,Ahmedabad,Gujarat,2022-08-13,Platinum
+QM-C00192,Vihaan,Nair,Hyderabad,Telangana,2022-02-01,Gold
+QM-C00193,Anika,Rao,Jaipur,Rajasthan,2024-08-02,Silver
+QM-C00194,Aadhya,Nair,Pune,Maharashtra,2022-11-22,Silver
+QM-C00195,Arjun,Patel,Lucknow,Uttar Pradesh,2022-10-08,Gold
+QM-C00196,Aditya,Rao,Jaipur,Rajasthan,2019-07-25,Gold
+QM-C00197,Myra,Singh,Delhi,Delhi,2022-06-02,Bronze
+QM-C00198,Anika,Iyer,Mumbai,Maharashtra,2024-05-23,Platinum
+QM-C00199,Aarav,Patel,Hyderabad,Telangana,2023-10-08,Gold
+QM-C00200,Vihaan,Verma,Hyderabad,Telangana,2022-01-29,Platinum
+QM-C00201,Myra,Mehta,Hyderabad,Telangana,2021-03-01,Platinum
+QM-C00202,Krishna,Sharma,Chennai,Tamil Nadu,2020-07-16,Gold
+QM-C00203,Diya,Reddy,Ahmedabad,Gujarat,2023-08-13,Platinum
+QM-C00204,Reyansh,Rao,Pune,Maharashtra,2024-08-07,Bronze
+QM-C00205,Reyansh,Patel,Pune,Maharashtra,2019-07-25,Platinum
+QM-C00206,Ananya,Iyer,Jaipur,Rajasthan,2024-08-07,Gold
+QM-C00207,Ishaan,Verma,Delhi,Delhi,2024-03-14,Platinum
+QM-C00208,Vihaan,Gupta,Kolkata,West Bengal,2024-02-11,Bronze
+QM-C00209,Arjun,Patel,Mumbai,Maharashtra,2022-06-04,Gold
+QM-C00210,Vivaan,Sharma,Bengaluru,Karnataka,2021-06-24,Silver
+QM-C00211,Ayaan,Singh,Hyderabad,Telangana,2019-09-23,Silver
+QM-C00212,Sai,Rao,Chennai,Tamil Nadu,2021-06-22,Gold
+QM-C00213,Ayaan,Rao,Pune,Maharashtra,2020-01-22,Gold
+QM-C00214,Saanvi,Singh,Chennai,Tamil Nadu,2021-12-15,Platinum
+QM-C00215,Pari,Gupta,Kolkata,West Bengal,2024-06-27,Bronze
+QM-C00216,Diya,Patel,Jaipur,Rajasthan,2022-02-11,Bronze
+QM-C00217,Anika,Reddy,Hyderabad,Telangana,2020-06-07,Silver
+QM-C00218,Arjun,Nair,Lucknow,Uttar Pradesh,2022-08-28,Bronze
+QM-C00219,Ayaan,Gupta,Ahmedabad,Gujarat,2020-01-07,Silver
+QM-C00220,Aadhya,Verma,Chennai,Tamil Nadu,2021-04-10,Platinum
+QM-C00221,Saanvi,Gupta,Chennai,Tamil Nadu,2024-09-09,Bronze
+QM-C00222,Ananya,Rao,Kolkata,West Bengal,2019-09-21,Platinum
+QM-C00223,Ananya,Singh,Lucknow,Uttar Pradesh,2021-09-25,Gold
+QM-C00224,Reyansh,Reddy,Hyderabad,Telangana,2021-02-18,Bronze
+QM-C00225,Ishaan,Mehta,Ahmedabad,Gujarat,2023-04-28,Platinum
+QM-C00226,Ananya,Rao,Bengaluru,Karnataka,2022-07-30,Silver
+QM-C00227,Sai,Sharma,Kolkata,West Bengal,2019-05-04,Platinum
+QM-C00228,Saanvi,Mehta,Jaipur,Rajasthan,2023-02-14,Silver
+QM-C00229,Riya,Verma,Delhi,Delhi,2021-07-18,Platinum
+QM-C00230,Navya,Verma,Chennai,Tamil Nadu,2019-09-17,Gold
+QM-C00231,Pari,Sharma,Delhi,Delhi,2023-07-21,Silver
+QM-C00232,Vihaan,Iyer,Chennai,Tamil Nadu,2019-07-07,Bronze
+QM-C00233,Reyansh,Patel,Ahmedabad,Gujarat,2024-02-14,Gold
+QM-C00234,Diya,Verma,Kolkata,West Bengal,2021-02-13,Silver
+QM-C00235,Ayaan,Rao,Jaipur,Rajasthan,2024-07-03,Bronze
+QM-C00236,Vihaan,Mehta,Bengaluru,Karnataka,2024-12-27,Silver
+QM-C00237,Aarav,Rao,Lucknow,Uttar Pradesh,2023-12-28,Bronze
+QM-C00238,Krishna,Nair,Lucknow,Uttar Pradesh,2023-11-22,Silver
+QM-C00239,Aditya,Singh,Ahmedabad,Gujarat,2024-04-21,Platinum
+QM-C00240,Sai,Patel,Chennai,Tamil Nadu,2021-08-26,Bronze
+QM-C00241,Krishna,Sharma,Kolkata,West Bengal,2021-02-09,Gold
+QM-C00242,Krishna,Iyer,Chennai,Tamil Nadu,2023-07-22,Silver
+QM-C00243,Sai,Rao,Lucknow,Uttar Pradesh,2020-07-27,Gold
+QM-C00244,Aarav,Singh,Ahmedabad,Gujarat,2022-07-05,Gold
+QM-C00245,Aditya,Iyer,Chennai,Tamil Nadu,2023-07-25,Bronze
+QM-C00246,Aadhya,Iyer,Jaipur,Rajasthan,2020-11-01,Silver
+QM-C00247,Ira,Singh,Delhi,Delhi,2021-06-26,Silver
+QM-C00248,Ananya,Verma,Bengaluru,Karnataka,2022-05-04,Platinum
+QM-C00249,Diya,Reddy,Pune,Maharashtra,2020-12-04,Bronze
+QM-C00250,Ishaan,Gupta,Chennai,Tamil Nadu,2023-08-15,Gold
+QM-C00251,Vihaan,Patel,Lucknow,Uttar Pradesh,2023-09-12,Bronze
+QM-C00252,Navya,Nair,Kolkata,West Bengal,2023-12-22,Gold
+QM-C00253,Vihaan,Mehta,Jaipur,Rajasthan,2019-01-27,Platinum
+QM-C00254,Aditya,Sharma,Jaipur,Rajasthan,2023-01-06,Platinum
+QM-C00255,Diya,Patel,Jaipur,Rajasthan,2023-04-17,Silver
+QM-C00256,Navya,Rao,Bengaluru,Karnataka,2019-09-06,Silver
+QM-C00257,Sai,Reddy,Hyderabad,Telangana,2021-11-22,Bronze
+QM-C00258,Ishaan,Gupta,Pune,Maharashtra,2021-07-09,Gold
+QM-C00259,Arjun,Nair,Jaipur,Rajasthan,2024-08-11,Bronze
+QM-C00260,Vihaan,Rao,Mumbai,Maharashtra,2019-06-22,Platinum
+QM-C00261,Myra,Verma,Bengaluru,Karnataka,2019-11-04,Silver
+QM-C00262,Reyansh,Sharma,Bengaluru,Karnataka,2024-02-07,Gold
+QM-C00263,Ishaan,Mehta,Lucknow,Uttar Pradesh,2020-09-30,Silver
+QM-C00264,Aditya,Reddy,Jaipur,Rajasthan,2024-06-08,Bronze
+QM-C00265,Anika,Reddy,Hyderabad,Telangana,2019-08-09,Gold
+QM-C00266,Navya,Gupta,Chennai,Tamil Nadu,2024-05-27,Platinum
+QM-C00267,Aadhya,Sharma,Lucknow,Uttar Pradesh,2023-05-20,Silver
+QM-C00268,Ananya,Patel,Kolkata,West Bengal,2020-12-02,Gold
+QM-C00269,Ira,Singh,Pune,Maharashtra,2020-07-04,Silver
+QM-C00270,Vivaan,Mehta,Delhi,Delhi,2023-04-29,Gold
+QM-C00271,Vihaan,Singh,Hyderabad,Telangana,2022-10-24,Platinum
+QM-C00272,Navya,Sharma,Delhi,Delhi,2023-08-16,Bronze
+QM-C00273,Ira,Sharma,Bengaluru,Karnataka,2023-10-01,Silver
+QM-C00274,Diya,Verma,Delhi,Delhi,2024-08-02,Bronze
+QM-C00275,Aadhya,Patel,Kolkata,West Bengal,2020-11-19,Gold
+QM-C00276,Ishaan,Mehta,Hyderabad,Telangana,2022-08-21,Platinum
+QM-C00277,Arjun,Rao,Lucknow,Uttar Pradesh,2020-10-06,Silver
+QM-C00278,Aditya,Iyer,Hyderabad,Telangana,2024-11-22,Bronze
+QM-C00279,Arjun,Sharma,Mumbai,Maharashtra,2021-07-28,Bronze
+QM-C00280,Aarav,Mehta,Kolkata,West Bengal,2021-05-01,Platinum
+QM-C00281,Ayaan,Nair,Chennai,Tamil Nadu,2019-10-06,Gold
+QM-C00282,Saanvi,Patel,Ahmedabad,Gujarat,2019-10-09,Gold
+QM-C00283,Aarav,Reddy,Hyderabad,Telangana,2021-02-16,Gold
+QM-C00284,Ananya,Sharma,Chennai,Tamil Nadu,2021-12-06,Silver
+QM-C00285,Pari,Iyer,Kolkata,West Bengal,2023-09-09,Silver
+QM-C00286,Aadhya,Rao,Lucknow,Uttar Pradesh,2024-07-19,Platinum
+QM-C00287,Ananya,Mehta,Delhi,Delhi,2023-11-16,Platinum
+QM-C00288,Aditya,Mehta,Delhi,Delhi,2023-12-02,Bronze
+QM-C00289,Sai,Singh,Bengaluru,Karnataka,2021-01-30,Bronze
+QM-C00290,Myra,Iyer,Kolkata,West Bengal,2024-02-03,Gold
+QM-C00291,Anika,Rao,Delhi,Delhi,2022-05-19,Gold
+QM-C00292,Aarav,Nair,Kolkata,West Bengal,2022-04-01,Platinum
+QM-C00293,Diya,Gupta,Mumbai,Maharashtra,2023-07-22,Gold
+QM-C00294,Ayaan,Verma,Chennai,Tamil Nadu,2023-08-16,Silver
+QM-C00295,Reyansh,Gupta,Bengaluru,Karnataka,2021-08-14,Gold
+QM-C00296,Arjun,Gupta,Ahmedabad,Gujarat,2020-05-12,Platinum
+QM-C00297,Diya,Gupta,Lucknow,Uttar Pradesh,2020-07-13,Silver
+QM-C00298,Aadhya,Sharma,Jaipur,Rajasthan,2024-06-11,Silver
+QM-C00299,Aditya,Gupta,Chennai,Tamil Nadu,2019-09-14,Platinum
+QM-C00300,Ira,Patel,Kolkata,West Bengal,2019-11-08,Bronze
+QM-C00301,Aarav,Iyer,Delhi,Delhi,2021-05-26,Silver
+QM-C00302,Ira,Singh,Kolkata,West Bengal,2023-08-20,Bronze
+QM-C00303,Krishna,Patel,Pune,Maharashtra,2024-10-03,Bronze
+QM-C00304,Navya,Reddy,Delhi,Delhi,2019-10-16,Gold
+QM-C00305,Saanvi,Gupta,Mumbai,Maharashtra,2019-11-24,Silver
+QM-C00306,Reyansh,Gupta,Hyderabad,Telangana,2022-01-23,Bronze
+QM-C00307,Reyansh,Mehta,Bengaluru,Karnataka,2020-01-16,Silver
+QM-C00308,Saanvi,Rao,Chennai,Tamil Nadu,2019-11-17,Gold
+QM-C00309,Ishaan,Verma,Chennai,Tamil Nadu,2022-04-30,Gold
+QM-C00310,Aditya,Iyer,Pune,Maharashtra,2019-02-01,Platinum
+QM-C00311,Vihaan,Rao,Mumbai,Maharashtra,2020-09-17,Gold
+QM-C00312,Pari,Iyer,Kolkata,West Bengal,2023-03-03,Gold
+QM-C00313,Saanvi,Reddy,Delhi,Delhi,2020-06-18,Bronze
+QM-C00314,Riya,Mehta,Jaipur,Rajasthan,2024-05-29,Platinum
+QM-C00315,Navya,Patel,Delhi,Delhi,2019-07-19,Silver
+QM-C00316,Myra,Rao,Hyderabad,Telangana,2020-03-28,Bronze
+QM-C00317,Arjun,Sharma,Bengaluru,Karnataka,2021-01-05,Gold
+QM-C00318,Vihaan,Patel,Kolkata,West Bengal,2021-12-19,Silver
+QM-C00319,Ananya,Patel,Mumbai,Maharashtra,2022-12-02,Bronze
+QM-C00320,Aadhya,Gupta,Bengaluru,Karnataka,2020-03-29,Bronze
+QM-C00321,Arjun,Sharma,Pune,Maharashtra,2019-08-12,Gold
+QM-C00322,Sai,Singh,Mumbai,Maharashtra,2022-09-27,Bronze
+QM-C00323,Saanvi,Iyer,Hyderabad,Telangana,2019-01-05,Silver
+QM-C00324,Sai,Singh,Hyderabad,Telangana,2021-03-23,Gold
+QM-C00325,Krishna,Iyer,Ahmedabad,Gujarat,2021-06-12,Silver
+QM-C00326,Ananya,Patel,Kolkata,West Bengal,2023-11-23,Platinum
+QM-C00327,Riya,Verma,Hyderabad,Telangana,2020-09-21,Silver
+QM-C00328,Myra,Patel,Mumbai,Maharashtra,2022-07-15,Platinum
+QM-C00329,Ayaan,Sharma,Chennai,Tamil Nadu,2020-02-07,Platinum
+QM-C00330,Vihaan,Patel,Jaipur,Rajasthan,2021-09-11,Bronze
+QM-C00331,Diya,Nair,Pune,Maharashtra,2020-09-11,Silver
+QM-C00332,Ananya,Reddy,Bengaluru,Karnataka,2020-01-17,Bronze
+QM-C00333,Aadhya,Nair,Lucknow,Uttar Pradesh,2019-05-17,Platinum
+QM-C00334,Krishna,Patel,Ahmedabad,Gujarat,2024-11-18,Gold
+QM-C00335,Aarav,Rao,Chennai,Tamil Nadu,2020-10-11,Gold
+QM-C00336,Ira,Verma,Hyderabad,Telangana,2021-04-02,Silver
+QM-C00337,Saanvi,Reddy,Delhi,Delhi,2022-12-25,Bronze
+QM-C00338,Arjun,Nair,Kolkata,West Bengal,2020-05-28,Platinum
+QM-C00339,Riya,Gupta,Kolkata,West Bengal,2021-04-30,Silver
+QM-C00340,Myra,Reddy,Chennai,Tamil Nadu,2023-04-10,Bronze
+QM-C00341,Vivaan,Rao,Bengaluru,Karnataka,2023-02-23,Bronze
+QM-C00342,Arjun,Iyer,Lucknow,Uttar Pradesh,2023-11-01,Platinum
+QM-C00343,Ishaan,Gupta,Bengaluru,Karnataka,2022-12-03,Gold
+QM-C00344,Vihaan,Gupta,Chennai,Tamil Nadu,2021-07-07,Platinum
+QM-C00345,Vihaan,Nair,Ahmedabad,Gujarat,2020-05-12,Gold
+QM-C00346,Ayaan,Singh,Lucknow,Uttar Pradesh,2024-01-06,Bronze
+QM-C00347,Diya,Iyer,Lucknow,Uttar Pradesh,2022-12-12,Silver
+QM-C00348,Ananya,Reddy,Ahmedabad,Gujarat,2023-10-29,Bronze
+QM-C00349,Myra,Mehta,Lucknow,Uttar Pradesh,2019-03-07,Bronze
+QM-C00350,Diya,Reddy,Ahmedabad,Gujarat,2022-01-01,Gold
+QM-C00351,Aadhya,Iyer,Ahmedabad,Gujarat,2020-10-24,Silver
+QM-C00352,Ira,Patel,Kolkata,West Bengal,2019-04-25,Bronze
+QM-C00353,Sai,Gupta,Chennai,Tamil Nadu,2019-10-02,Bronze
+QM-C00354,Myra,Iyer,Mumbai,Maharashtra,2019-10-02,Silver
+QM-C00355,Sai,Sharma,Jaipur,Rajasthan,2021-12-22,Silver
+QM-C00356,Anika,Iyer,Chennai,Tamil Nadu,2021-11-19,Gold
+QM-C00357,Anika,Sharma,Kolkata,West Bengal,2022-10-22,Silver
+QM-C00358,Myra,Verma,Hyderabad,Telangana,2022-03-29,Bronze
+QM-C00359,Krishna,Iyer,Jaipur,Rajasthan,2020-09-24,Platinum
+QM-C00360,Saanvi,Iyer,Ahmedabad,Gujarat,2023-08-24,Platinum
+QM-C00361,Saanvi,Patel,Kolkata,West Bengal,2021-09-10,Bronze
+QM-C00362,Ira,Patel,Delhi,Delhi,2024-05-22,Platinum
+QM-C00363,Aadhya,Nair,Hyderabad,Telangana,2019-04-26,Gold
+QM-C00364,Vivaan,Nair,Pune,Maharashtra,2022-01-24,Gold
+QM-C00365,Anika,Reddy,Kolkata,West Bengal,2022-01-26,Bronze
+QM-C00366,Reyansh,Reddy,Ahmedabad,Gujarat,2023-12-12,Silver
+QM-C00367,Reyansh,Patel,Hyderabad,Telangana,2024-01-25,Gold
+QM-C00368,Ayaan,Verma,Ahmedabad,Gujarat,2021-07-27,Gold
+QM-C00369,Anika,Reddy,Chennai,Tamil Nadu,2022-08-27,Bronze
+QM-C00370,Ishaan,Nair,Pune,Maharashtra,2023-12-18,Bronze
+QM-C00371,Myra,Rao,Lucknow,Uttar Pradesh,2024-11-11,Platinum
+QM-C00372,Ishaan,Mehta,Jaipur,Rajasthan,2021-06-11,Gold
+QM-C00373,Myra,Rao,Jaipur,Rajasthan,2023-07-16,Platinum
+QM-C00374,Ira,Iyer,Mumbai,Maharashtra,2023-01-17,Platinum
+QM-C00375,Riya,Iyer,Ahmedabad,Gujarat,2020-03-11,Gold
+QM-C00376,Saanvi,Reddy,Hyderabad,Telangana,2024-03-17,Platinum
+QM-C00377,Reyansh,Verma,Bengaluru,Karnataka,2024-10-12,Gold
+QM-C00378,Arjun,Iyer,Bengaluru,Karnataka,2023-05-23,Gold
+QM-C00379,Diya,Verma,Hyderabad,Telangana,2022-04-20,Silver
+QM-C00380,Diya,Patel,Bengaluru,Karnataka,2022-03-31,Gold
+QM-C00381,Vihaan,Mehta,Chennai,Tamil Nadu,2023-08-22,Gold
+QM-C00382,Saanvi,Reddy,Chennai,Tamil Nadu,2020-06-23,Bronze
+QM-C00383,Ananya,Nair,Lucknow,Uttar Pradesh,2022-09-18,Bronze
+QM-C00384,Ayaan,Reddy,Kolkata,West Bengal,2022-07-01,Silver
+QM-C00385,Aadhya,Reddy,Kolkata,West Bengal,2019-04-15,Platinum
+QM-C00386,Aadhya,Patel,Kolkata,West Bengal,2024-10-15,Bronze
+QM-C00387,Aarav,Verma,Ahmedabad,Gujarat,2020-07-25,Bronze
+QM-C00388,Vivaan,Verma,Jaipur,Rajasthan,2024-04-04,Bronze
+QM-C00389,Saanvi,Singh,Hyderabad,Telangana,2019-01-09,Gold
+QM-C00390,Aarav,Rao,Kolkata,West Bengal,2024-02-07,Platinum
+QM-C00391,Diya,Mehta,Bengaluru,Karnataka,2023-06-13,Gold
+QM-C00392,Saanvi,Nair,Jaipur,Rajasthan,2023-06-25,Silver
+QM-C00393,Vivaan,Singh,Pune,Maharashtra,2024-02-06,Platinum
+QM-C00394,Pari,Singh,Bengaluru,Karnataka,2020-04-02,Gold
+QM-C00395,Ira,Verma,Delhi,Delhi,2024-10-14,Platinum
+QM-C00396,Aarav,Singh,Kolkata,West Bengal,2023-11-20,Bronze
+QM-C00397,Riya,Patel,Kolkata,West Bengal,2023-09-25,Platinum
+QM-C00398,Saanvi,Gupta,Ahmedabad,Gujarat,2024-03-09,Silver
+QM-C00399,Myra,Verma,Hyderabad,Telangana,2023-05-03,Silver
+QM-C00400,Saanvi,Sharma,Bengaluru,Karnataka,2022-03-07,Platinum
+QM-C00401,Anika,Singh,Bengaluru,Karnataka,2023-02-19,Platinum
+QM-C00402,Aadhya,Mehta,Mumbai,Maharashtra,2023-01-11,Silver
+QM-C00403,Reyansh,Iyer,Ahmedabad,Gujarat,2019-01-19,Silver
+QM-C00404,Reyansh,Nair,Hyderabad,Telangana,2022-02-14,Platinum
+QM-C00405,Arjun,Reddy,Chennai,Tamil Nadu,2023-07-28,Bronze
+QM-C00406,Ishaan,Iyer,Ahmedabad,Gujarat,2022-02-07,Platinum
+QM-C00407,Aadhya,Rao,Ahmedabad,Gujarat,2023-04-08,Bronze
+QM-C00408,Saanvi,Iyer,Chennai,Tamil Nadu,2020-03-24,Bronze
+QM-C00409,Anika,Gupta,Lucknow,Uttar Pradesh,2023-04-30,Gold
+QM-C00410,Aditya,Verma,Mumbai,Maharashtra,2021-05-14,Gold
+QM-C00411,Ishaan,Mehta,Kolkata,West Bengal,2023-12-22,Platinum
+QM-C00412,Ayaan,Rao,Jaipur,Rajasthan,2022-08-14,Bronze
+QM-C00413,Aarav,Gupta,Bengaluru,Karnataka,2023-04-26,Gold
+QM-C00414,Navya,Gupta,Jaipur,Rajasthan,2023-12-30,Bronze
+QM-C00415,Aarav,Sharma,Delhi,Delhi,2022-07-16,Platinum
+QM-C00416,Aadhya,Verma,Lucknow,Uttar Pradesh,2023-11-21,Silver
+QM-C00417,Diya,Nair,Bengaluru,Karnataka,2020-07-03,Silver
+QM-C00418,Aditya,Verma,Chennai,Tamil Nadu,2021-07-23,Bronze
+QM-C00419,Reyansh,Rao,Mumbai,Maharashtra,2020-12-19,Bronze
+QM-C00420,Vihaan,Mehta,Bengaluru,Karnataka,2019-05-19,Gold
+QM-C00421,Anika,Mehta,Jaipur,Rajasthan,2019-04-26,Gold
+QM-C00422,Reyansh,Rao,Delhi,Delhi,2019-01-01,Gold
+QM-C00423,Myra,Mehta,Hyderabad,Telangana,2020-05-30,Platinum
+QM-C00424,Aditya,Singh,Hyderabad,Telangana,2019-11-11,Silver
+QM-C00425,Sai,Iyer,Chennai,Tamil Nadu,2019-04-09,Platinum
+QM-C00426,Ira,Sharma,Kolkata,West Bengal,2022-10-20,Gold
+QM-C00427,Vivaan,Iyer,Delhi,Delhi,2019-06-09,Platinum
+QM-C00428,Aditya,Sharma,Delhi,Delhi,2021-09-07,Gold
+QM-C00429,Aditya,Sharma,Lucknow,Uttar Pradesh,2021-06-26,Gold
+QM-C00430,Anika,Singh,Delhi,Delhi,2024-07-24,Bronze
+QM-C00431,Ira,Mehta,Pune,Maharashtra,2024-10-12,Bronze
+QM-C00432,Myra,Mehta,Ahmedabad,Gujarat,2024-09-19,Platinum
+QM-C00433,Riya,Gupta,Delhi,Delhi,2023-09-19,Silver
+QM-C00434,Arjun,Reddy,Delhi,Delhi,2020-04-13,Platinum
+QM-C00435,Ananya,Patel,Lucknow,Uttar Pradesh,2019-10-01,Bronze
+QM-C00436,Ananya,Reddy,Bengaluru,Karnataka,2019-08-09,Gold
+QM-C00437,Riya,Gupta,Jaipur,Rajasthan,2019-09-19,Silver
+QM-C00438,Ananya,Reddy,Bengaluru,Karnataka,2023-04-13,Silver
+QM-C00439,Diya,Singh,Ahmedabad,Gujarat,2023-02-09,Bronze
+QM-C00440,Ananya,Patel,Bengaluru,Karnataka,2020-11-25,Gold
+QM-C00441,Ananya,Gupta,Jaipur,Rajasthan,2020-12-27,Bronze
+QM-C00442,Ayaan,Singh,Lucknow,Uttar Pradesh,2020-04-13,Gold
+QM-C00443,Anika,Mehta,Hyderabad,Telangana,2021-10-15,Bronze
+QM-C00444,Diya,Rao,Bengaluru,Karnataka,2022-07-11,Bronze
+QM-C00445,Pari,Rao,Chennai,Tamil Nadu,2023-08-24,Platinum
+QM-C00446,Navya,Gupta,Jaipur,Rajasthan,2023-06-01,Gold
+QM-C00447,Saanvi,Singh,Ahmedabad,Gujarat,2024-12-19,Gold
+QM-C00448,Saanvi,Nair,Pune,Maharashtra,2021-07-27,Bronze
+QM-C00449,Aarav,Mehta,Jaipur,Rajasthan,2020-12-18,Gold
+QM-C00450,Myra,Nair,Pune,Maharashtra,2021-12-29,Bronze
+QM-C00451,Aditya,Iyer,Mumbai,Maharashtra,2024-07-11,Silver
+QM-C00452,Aadhya,Reddy,Hyderabad,Telangana,2023-01-25,Gold
+QM-C00453,Riya,Patel,Bengaluru,Karnataka,2023-08-27,Bronze
+QM-C00454,Aarav,Mehta,Jaipur,Rajasthan,2020-08-03,Silver
+QM-C00455,Reyansh,Sharma,Ahmedabad,Gujarat,2020-07-07,Platinum
+QM-C00456,Reyansh,Rao,Lucknow,Uttar Pradesh,2024-06-21,Bronze
+QM-C00457,Vihaan,Rao,Kolkata,West Bengal,2023-06-27,Silver
+QM-C00458,Ananya,Mehta,Pune,Maharashtra,2024-05-25,Platinum
+QM-C00459,Krishna,Reddy,Jaipur,Rajasthan,2024-07-18,Bronze
+QM-C00460,Aditya,Gupta,Pune,Maharashtra,2022-03-28,Platinum
+QM-C00461,Navya,Gupta,Pune,Maharashtra,2023-08-16,Gold
+QM-C00462,Riya,Nair,Lucknow,Uttar Pradesh,2019-02-10,Bronze
+QM-C00463,Krishna,Sharma,Hyderabad,Telangana,2019-03-22,Bronze
+QM-C00464,Aditya,Mehta,Chennai,Tamil Nadu,2024-06-26,Silver
+QM-C00465,Sai,Singh,Bengaluru,Karnataka,2019-10-13,Silver
+QM-C00466,Diya,Mehta,Ahmedabad,Gujarat,2019-02-28,Silver
+QM-C00467,Sai,Rao,Jaipur,Rajasthan,2022-08-31,Gold
+QM-C00468,Arjun,Sharma,Ahmedabad,Gujarat,2021-01-08,Platinum
+QM-C00469,Arjun,Sharma,Chennai,Tamil Nadu,2022-08-18,Platinum
+QM-C00470,Pari,Sharma,Lucknow,Uttar Pradesh,2021-08-17,Bronze
+QM-C00471,Sai,Mehta,Delhi,Delhi,2023-06-23,Bronze
+QM-C00472,Diya,Reddy,Ahmedabad,Gujarat,2022-11-25,Silver
+QM-C00473,Myra,Mehta,Pune,Maharashtra,2024-10-16,Platinum
+QM-C00474,Ishaan,Patel,Mumbai,Maharashtra,2021-07-10,Silver
+QM-C00475,Ananya,Rao,Mumbai,Maharashtra,2019-03-05,Bronze
+QM-C00476,Riya,Nair,Mumbai,Maharashtra,2020-08-07,Platinum
+QM-C00477,Ishaan,Reddy,Chennai,Tamil Nadu,2022-10-02,Gold
+QM-C00478,Vivaan,Verma,Chennai,Tamil Nadu,2024-07-09,Silver
+QM-C00479,Aditya,Sharma,Kolkata,West Bengal,2023-09-04,Gold
+QM-C00480,Navya,Gupta,Kolkata,West Bengal,2021-12-11,Silver
+QM-C00481,Saanvi,Nair,Kolkata,West Bengal,2020-01-13,Gold
+QM-C00482,Ishaan,Mehta,Lucknow,Uttar Pradesh,2024-11-11,Gold
+QM-C00483,Aadhya,Patel,Kolkata,West Bengal,2021-10-22,Bronze
+QM-C00484,Myra,Singh,Bengaluru,Karnataka,2022-03-31,Bronze
+QM-C00485,Aarav,Singh,Chennai,Tamil Nadu,2022-04-15,Gold
+QM-C00486,Ayaan,Singh,Lucknow,Uttar Pradesh,2022-12-10,Bronze
+QM-C00487,Vihaan,Nair,Ahmedabad,Gujarat,2023-11-22,Silver
+QM-C00488,Pari,Gupta,Delhi,Delhi,2020-04-03,Platinum
+QM-C00489,Sai,Sharma,Ahmedabad,Gujarat,2024-12-14,Bronze
+QM-C00490,Reyansh,Mehta,Kolkata,West Bengal,2023-09-09,Gold
+QM-C00491,Reyansh,Sharma,Pune,Maharashtra,2019-09-13,Bronze
+QM-C00492,Riya,Sharma,Delhi,Delhi,2019-01-01,Platinum
+QM-C00493,Navya,Singh,Hyderabad,Telangana,2020-04-08,Silver
+QM-C00494,Aditya,Sharma,Lucknow,Uttar Pradesh,2023-12-05,Bronze
+QM-C00495,Vihaan,Rao,Jaipur,Rajasthan,2022-11-30,Gold
+QM-C00496,Vihaan,Iyer,Hyderabad,Telangana,2019-11-27,Platinum
+QM-C00497,Pari,Verma,Ahmedabad,Gujarat,2022-04-24,Gold
+QM-C00498,Anika,Patel,Kolkata,West Bengal,2023-10-15,Platinum
+QM-C00499,Riya,Nair,Bengaluru,Karnataka,2021-07-02,Platinum
+QM-C00500,Ayaan,Reddy,Mumbai,Maharashtra,2019-05-02,Silver
+QM-C00501,Saanvi,Singh,Hyderabad,Telangana,2020-05-10,Gold
+QM-C00502,Diya,Verma,Mumbai,Maharashtra,2021-11-20,Gold
+QM-C00503,Pari,Sharma,Mumbai,Maharashtra,2022-04-10,Bronze
+QM-C00504,Saanvi,Reddy,Chennai,Tamil Nadu,2023-06-28,Silver
+QM-C00505,Aditya,Gupta,Delhi,Delhi,2022-04-13,Gold
+QM-C00506,Ishaan,Rao,Chennai,Tamil Nadu,2023-08-19,Platinum
+QM-C00507,Anika,Nair,Pune,Maharashtra,2023-07-06,Silver
+QM-C00508,Ishaan,Patel,Ahmedabad,Gujarat,2020-01-16,Bronze
+QM-C00509,Ayaan,Rao,Hyderabad,Telangana,2019-03-27,Platinum
+QM-C00510,Vihaan,Patel,Kolkata,West Bengal,2024-12-22,Bronze
+QM-C00511,Pari,Rao,Bengaluru,Karnataka,2020-05-17,Bronze
+QM-C00512,Saanvi,Gupta,Hyderabad,Telangana,2019-02-24,Silver
+QM-C00513,Ira,Gupta,Hyderabad,Telangana,2023-10-24,Silver
+QM-C00514,Ishaan,Gupta,Pune,Maharashtra,2021-11-03,Silver
+QM-C00515,Anika,Gupta,Lucknow,Uttar Pradesh,2024-03-22,Platinum
+QM-C00516,Arjun,Iyer,Chennai,Tamil Nadu,2024-07-19,Platinum
+QM-C00517,Aditya,Iyer,Mumbai,Maharashtra,2024-02-01,Silver
+QM-C00518,Krishna,Patel,Pune,Maharashtra,2023-08-13,Bronze
+QM-C00519,Sai,Patel,Kolkata,West Bengal,2021-11-03,Silver
+QM-C00520,Navya,Patel,Lucknow,Uttar Pradesh,2020-09-14,Silver
+QM-C00521,Ayaan,Gupta,Chennai,Tamil Nadu,2023-06-11,Bronze
+QM-C00522,Anika,Patel,Bengaluru,Karnataka,2019-06-06,Bronze
+QM-C00523,Ira,Iyer,Ahmedabad,Gujarat,2023-12-01,Silver
+QM-C00524,Saanvi,Reddy,Hyderabad,Telangana,2022-01-27,Silver
+QM-C00525,Anika,Rao,Ahmedabad,Gujarat,2019-07-18,Gold
+QM-C00526,Aditya,Mehta,Bengaluru,Karnataka,2020-05-10,Platinum
+QM-C00527,Ira,Iyer,Jaipur,Rajasthan,2022-07-15,Bronze
+QM-C00528,Navya,Iyer,Ahmedabad,Gujarat,2022-10-11,Gold
+QM-C00529,Vivaan,Reddy,Ahmedabad,Gujarat,2023-07-10,Gold
+QM-C00530,Saanvi,Sharma,Ahmedabad,Gujarat,2022-04-23,Gold
+QM-C00531,Sai,Singh,Hyderabad,Telangana,2020-08-22,Bronze
+QM-C00532,Vivaan,Nair,Chennai,Tamil Nadu,2019-11-06,Gold
+QM-C00533,Riya,Reddy,Ahmedabad,Gujarat,2023-01-22,Gold
+QM-C00534,Krishna,Singh,Hyderabad,Telangana,2020-12-31,Gold
+QM-C00535,Aadhya,Reddy,Lucknow,Uttar Pradesh,2021-03-16,Silver
+QM-C00536,Vivaan,Mehta,Delhi,Delhi,2021-02-02,Silver
+QM-C00537,Saanvi,Sharma,Delhi,Delhi,2022-11-21,Silver
+QM-C00538,Riya,Nair,Jaipur,Rajasthan,2024-07-29,Platinum
+QM-C00539,Ayaan,Rao,Lucknow,Uttar Pradesh,2019-04-11,Silver
+QM-C00540,Aarav,Sharma,Pune,Maharashtra,2021-04-16,Bronze
+QM-C00541,Arjun,Nair,Lucknow,Uttar Pradesh,2023-01-11,Gold
+QM-C00542,Aarav,Reddy,Kolkata,West Bengal,2021-05-13,Platinum
+QM-C00543,Anika,Iyer,Delhi,Delhi,2022-03-27,Gold
+QM-C00544,Myra,Sharma,Mumbai,Maharashtra,2020-02-26,Platinum
+QM-C00545,Aarav,Gupta,Hyderabad,Telangana,2019-09-04,Gold
+QM-C00546,Krishna,Mehta,Delhi,Delhi,2024-01-15,Silver
+QM-C00547,Ayaan,Sharma,Delhi,Delhi,2021-07-07,Gold
+QM-C00548,Ishaan,Nair,Jaipur,Rajasthan,2022-02-20,Silver
+QM-C00549,Saanvi,Mehta,Mumbai,Maharashtra,2022-09-05,Silver
+QM-C00550,Aditya,Iyer,Ahmedabad,Gujarat,2024-02-04,Bronze
+QM-C00551,Reyansh,Sharma,Hyderabad,Telangana,2023-01-11,Bronze
+QM-C00552,Aadhya,Reddy,Kolkata,West Bengal,2021-07-27,Platinum
+QM-C00553,Reyansh,Nair,Jaipur,Rajasthan,2022-12-09,Platinum
+QM-C00554,Ananya,Gupta,Lucknow,Uttar Pradesh,2024-09-22,Gold
+QM-C00555,Anika,Rao,Chennai,Tamil Nadu,2019-05-14,Bronze
+QM-C00556,Anika,Rao,Lucknow,Uttar Pradesh,2020-04-25,Bronze
+QM-C00557,Aadhya,Mehta,Mumbai,Maharashtra,2022-06-15,Platinum
+QM-C00558,Navya,Patel,Pune,Maharashtra,2021-04-14,Bronze
+QM-C00559,Arjun,Sharma,Ahmedabad,Gujarat,2019-11-20,Silver
+QM-C00560,Ayaan,Patel,Lucknow,Uttar Pradesh,2020-10-31,Bronze
+QM-C00561,Saanvi,Sharma,Jaipur,Rajasthan,2024-02-27,Platinum
+QM-C00562,Navya,Mehta,Hyderabad,Telangana,2021-09-01,Gold
+QM-C00563,Ira,Gupta,Hyderabad,Telangana,2022-11-17,Gold
+QM-C00564,Aadhya,Singh,Lucknow,Uttar Pradesh,2020-10-16,Bronze
+QM-C00565,Vihaan,Sharma,Jaipur,Rajasthan,2024-08-13,Bronze
+QM-C00566,Vivaan,Rao,Pune,Maharashtra,2019-09-19,Platinum
+QM-C00567,Pari,Rao,Hyderabad,Telangana,2023-10-02,Bronze
+QM-C00568,Saanvi,Singh,Pune,Maharashtra,2021-06-18,Bronze
+QM-C00569,Krishna,Gupta,Jaipur,Rajasthan,2023-05-22,Gold
+QM-C00570,Ishaan,Iyer,Ahmedabad,Gujarat,2024-12-01,Silver
+QM-C00571,Pari,Gupta,Jaipur,Rajasthan,2021-02-10,Platinum
+QM-C00572,Aarav,Rao,Ahmedabad,Gujarat,2019-04-12,Gold
+QM-C00573,Ishaan,Gupta,Delhi,Delhi,2019-06-20,Silver
+QM-C00574,Aadhya,Verma,Ahmedabad,Gujarat,2020-11-15,Platinum
+QM-C00575,Navya,Nair,Delhi,Delhi,2019-05-18,Silver
+QM-C00576,Ananya,Iyer,Bengaluru,Karnataka,2023-04-14,Gold
+QM-C00577,Ananya,Singh,Pune,Maharashtra,2023-09-06,Platinum
+QM-C00578,Ishaan,Sharma,Lucknow,Uttar Pradesh,2024-01-31,Silver
+QM-C00579,Navya,Sharma,Ahmedabad,Gujarat,2023-11-10,Silver
+QM-C00580,Navya,Reddy,Chennai,Tamil Nadu,2019-06-04,Platinum
+QM-C00581,Pari,Nair,Chennai,Tamil Nadu,2019-10-13,Silver
+QM-C00582,Vivaan,Nair,Bengaluru,Karnataka,2021-08-29,Gold
+QM-C00583,Aadhya,Rao,Jaipur,Rajasthan,2019-10-15,Bronze
+QM-C00584,Ishaan,Singh,Hyderabad,Telangana,2024-10-18,Platinum
+QM-C00585,Diya,Iyer,Ahmedabad,Gujarat,2023-06-18,Silver
+QM-C00586,Diya,Verma,Kolkata,West Bengal,2023-04-20,Bronze
+QM-C00587,Sai,Singh,Kolkata,West Bengal,2020-12-25,Platinum
+QM-C00588,Ayaan,Verma,Pune,Maharashtra,2022-12-10,Gold
+QM-C00589,Riya,Reddy,Lucknow,Uttar Pradesh,2020-07-02,Silver
+QM-C00590,Krishna,Verma,Hyderabad,Telangana,2022-09-23,Gold
+QM-C00591,Saanvi,Gupta,Chennai,Tamil Nadu,2020-02-08,Bronze
+QM-C00592,Reyansh,Gupta,Delhi,Delhi,2024-06-16,Bronze
+QM-C00593,Arjun,Rao,Hyderabad,Telangana,2021-10-15,Silver
+QM-C00594,Krishna,Patel,Pune,Maharashtra,2022-04-26,Bronze
+QM-C00595,Vivaan,Iyer,Lucknow,Uttar Pradesh,2024-12-30,Silver
+QM-C00596,Ishaan,Rao,Ahmedabad,Gujarat,2022-06-09,Silver
+QM-C00597,Vivaan,Rao,Jaipur,Rajasthan,2024-09-11,Gold
+QM-C00598,Diya,Iyer,Delhi,Delhi,2022-05-05,Gold
+QM-C00599,Ira,Gupta,Lucknow,Uttar Pradesh,2022-07-04,Platinum
+QM-C00600,Aditya,Mehta,Kolkata,West Bengal,2019-12-24,Gold
+QM-C00601,Aadhya,Iyer,Delhi,Delhi,2021-12-04,Silver
+QM-C00602,Vivaan,Iyer,Bengaluru,Karnataka,2019-05-29,Silver
+QM-C00603,Ishaan,Sharma,Hyderabad,Telangana,2020-12-19,Platinum
+QM-C00604,Ayaan,Rao,Kolkata,West Bengal,2024-10-02,Silver
+QM-C00605,Aadhya,Verma,Pune,Maharashtra,2020-02-17,Bronze
+QM-C00606,Krishna,Verma,Hyderabad,Telangana,2023-09-23,Platinum
+QM-C00607,Navya,Patel,Ahmedabad,Gujarat,2020-02-10,Gold
+QM-C00608,Reyansh,Reddy,Ahmedabad,Gujarat,2023-04-03,Platinum
+QM-C00609,Saanvi,Sharma,Ahmedabad,Gujarat,2021-05-31,Gold
+QM-C00610,Ayaan,Reddy,Chennai,Tamil Nadu,2023-08-26,Gold
+QM-C00611,Vivaan,Reddy,Jaipur,Rajasthan,2023-08-20,Silver
+QM-C00612,Krishna,Patel,Ahmedabad,Gujarat,2024-07-04,Gold
+QM-C00613,Anika,Nair,Jaipur,Rajasthan,2022-02-22,Silver
+QM-C00614,Krishna,Rao,Kolkata,West Bengal,2019-10-11,Gold
+QM-C00615,Ayaan,Gupta,Chennai,Tamil Nadu,2019-04-20,Platinum
+QM-C00616,Diya,Sharma,Mumbai,Maharashtra,2019-10-12,Gold
+QM-C00617,Riya,Mehta,Mumbai,Maharashtra,2023-07-15,Gold
+QM-C00618,Arjun,Singh,Jaipur,Rajasthan,2023-01-22,Bronze
+QM-C00619,Pari,Mehta,Ahmedabad,Gujarat,2021-02-11,Bronze
+QM-C00620,Vivaan,Patel,Pune,Maharashtra,2019-10-06,Silver
+QM-C00621,Ishaan,Reddy,Mumbai,Maharashtra,2021-02-01,Silver
+QM-C00622,Vivaan,Patel,Pune,Maharashtra,2024-07-19,Bronze
+QM-C00623,Pari,Mehta,Kolkata,West Bengal,2020-01-30,Silver
+QM-C00624,Arjun,Singh,Chennai,Tamil Nadu,2019-11-19,Platinum
+QM-C00625,Aarav,Rao,Delhi,Delhi,2023-06-03,Gold
+QM-C00626,Vivaan,Patel,Bengaluru,Karnataka,2023-05-21,Platinum
+QM-C00627,Navya,Mehta,Pune,Maharashtra,2024-05-10,Platinum
+QM-C00628,Myra,Gupta,Kolkata,West Bengal,2023-07-10,Bronze
+QM-C00629,Ayaan,Rao,Kolkata,West Bengal,2020-09-17,Platinum
+QM-C00630,Saanvi,Patel,Lucknow,Uttar Pradesh,2021-11-05,Gold
+QM-C00631,Pari,Sharma,Jaipur,Rajasthan,2022-07-04,Platinum
+QM-C00632,Navya,Singh,Delhi,Delhi,2023-07-17,Silver
+QM-C00633,Ishaan,Gupta,Lucknow,Uttar Pradesh,2024-09-26,Bronze
+QM-C00634,Aadhya,Mehta,Hyderabad,Telangana,2024-06-23,Platinum
+QM-C00635,Anika,Patel,Jaipur,Rajasthan,2019-08-18,Platinum
+QM-C00636,Sai,Gupta,Pune,Maharashtra,2022-10-07,Platinum
+QM-C00637,Krishna,Rao,Chennai,Tamil Nadu,2019-06-26,Gold
+QM-C00638,Krishna,Verma,Hyderabad,Telangana,2021-11-03,Bronze
+QM-C00639,Anika,Mehta,Delhi,Delhi,2024-01-15,Gold
+QM-C00640,Aarav,Rao,Pune,Maharashtra,2024-10-07,Platinum
+QM-C00641,Ishaan,Iyer,Mumbai,Maharashtra,2020-10-24,Platinum
+QM-C00642,Aarav,Singh,Delhi,Delhi,2020-11-20,Gold
+QM-C00643,Reyansh,Gupta,Lucknow,Uttar Pradesh,2023-11-21,Bronze
+QM-C00644,Navya,Sharma,Ahmedabad,Gujarat,2024-07-03,Bronze
+QM-C00645,Ayaan,Iyer,Pune,Maharashtra,2023-01-28,Platinum
+QM-C00646,Reyansh,Rao,Mumbai,Maharashtra,2023-10-12,Gold
+QM-C00647,Riya,Singh,Hyderabad,Telangana,2021-11-26,Gold
+QM-C00648,Navya,Verma,Pune,Maharashtra,2019-06-15,Gold
+QM-C00649,Myra,Patel,Hyderabad,Telangana,2024-08-22,Gold
+QM-C00650,Krishna,Iyer,Kolkata,West Bengal,2019-05-20,Platinum
+QM-C00651,Ananya,Patel,Hyderabad,Telangana,2023-12-27,Gold
+QM-C00652,Ishaan,Gupta,Bengaluru,Karnataka,2022-09-18,Platinum
+QM-C00653,Riya,Patel,Bengaluru,Karnataka,2021-03-22,Bronze
+QM-C00654,Krishna,Mehta,Chennai,Tamil Nadu,2020-02-13,Platinum
+QM-C00655,Reyansh,Mehta,Chennai,Tamil Nadu,2021-01-01,Bronze
+QM-C00656,Ishaan,Nair,Hyderabad,Telangana,2022-02-14,Silver
+QM-C00657,Aarav,Rao,Kolkata,West Bengal,2021-12-06,Gold
+QM-C00658,Aditya,Gupta,Lucknow,Uttar Pradesh,2019-11-23,Silver
+QM-C00659,Riya,Sharma,Hyderabad,Telangana,2022-01-30,Bronze
+QM-C00660,Pari,Rao,Bengaluru,Karnataka,2020-03-07,Platinum
+QM-C00661,Anika,Mehta,Chennai,Tamil Nadu,2020-02-03,Platinum
+QM-C00662,Krishna,Iyer,Kolkata,West Bengal,2024-11-03,Gold
+QM-C00663,Riya,Singh,Bengaluru,Karnataka,2022-04-21,Platinum
+QM-C00664,Vivaan,Iyer,Delhi,Delhi,2021-06-14,Platinum
+QM-C00665,Aadhya,Sharma,Hyderabad,Telangana,2024-05-21,Platinum
+QM-C00666,Arjun,Patel,Pune,Maharashtra,2024-05-16,Silver
+QM-C00667,Navya,Reddy,Kolkata,West Bengal,2024-10-21,Gold
+QM-C00668,Ira,Iyer,Delhi,Delhi,2019-06-12,Silver
+QM-C00669,Myra,Singh,Hyderabad,Telangana,2021-03-13,Silver
+QM-C00670,Arjun,Mehta,Bengaluru,Karnataka,2020-02-12,Platinum
+QM-C00671,Ishaan,Sharma,Kolkata,West Bengal,2020-07-11,Gold
+QM-C00672,Pari,Gupta,Bengaluru,Karnataka,2024-05-27,Silver
+QM-C00673,Aarav,Mehta,Lucknow,Uttar Pradesh,2021-04-28,Silver
+QM-C00674,Riya,Patel,Delhi,Delhi,2019-03-20,Gold
+QM-C00675,Krishna,Reddy,Bengaluru,Karnataka,2021-12-04,Silver
+QM-C00676,Aarav,Singh,Pune,Maharashtra,2024-08-29,Bronze
+QM-C00677,Anika,Patel,Delhi,Delhi,2024-03-08,Platinum
+QM-C00678,Aarav,Verma,Kolkata,West Bengal,2020-04-02,Platinum
+QM-C00679,Saanvi,Mehta,Chennai,Tamil Nadu,2021-10-20,Bronze
+QM-C00680,Aditya,Sharma,Chennai,Tamil Nadu,2020-07-15,Gold
+QM-C00681,Krishna,Nair,Delhi,Delhi,2022-06-20,Silver
+QM-C00682,Reyansh,Iyer,Jaipur,Rajasthan,2020-10-06,Silver
+QM-C00683,Ishaan,Verma,Delhi,Delhi,2021-01-13,Bronze
+QM-C00684,Ananya,Nair,Chennai,Tamil Nadu,2022-02-24,Silver
+QM-C00685,Reyansh,Gupta,Hyderabad,Telangana,2022-12-11,Gold
+QM-C00686,Aditya,Rao,Chennai,Tamil Nadu,2021-10-19,Platinum
+QM-C00687,Vihaan,Iyer,Kolkata,West Bengal,2022-09-13,Bronze
+QM-C00688,Ananya,Nair,Lucknow,Uttar Pradesh,2024-03-08,Silver
+QM-C00689,Sai,Reddy,Pune,Maharashtra,2020-04-25,Bronze
+QM-C00690,Aditya,Mehta,Jaipur,Rajasthan,2019-08-14,Silver
+QM-C00691,Riya,Mehta,Bengaluru,Karnataka,2023-04-26,Gold
+QM-C00692,Reyansh,Iyer,Kolkata,West Bengal,2024-09-26,Bronze
+QM-C00693,Aditya,Sharma,Kolkata,West Bengal,2020-06-09,Bronze
+QM-C00694,Vivaan,Mehta,Chennai,Tamil Nadu,2022-02-19,Bronze
+QM-C00695,Aadhya,Nair,Mumbai,Maharashtra,2019-10-27,Silver
+QM-C00696,Pari,Patel,Ahmedabad,Gujarat,2024-03-15,Platinum
+QM-C00697,Krishna,Nair,Chennai,Tamil Nadu,2024-12-14,Silver
+QM-C00698,Sai,Patel,Pune,Maharashtra,2021-06-02,Bronze
+QM-C00699,Arjun,Iyer,Hyderabad,Telangana,2021-11-05,Gold
+QM-C00700,Navya,Reddy,Delhi,Delhi,2021-11-17,Silver
+QM-C00701,Saanvi,Mehta,Kolkata,West Bengal,2021-12-12,Gold
+QM-C00702,Aadhya,Sharma,Bengaluru,Karnataka,2022-11-28,Bronze
+QM-C00703,Vihaan,Rao,Kolkata,West Bengal,2022-02-14,Bronze
+QM-C00704,Aarav,Nair,Kolkata,West Bengal,2022-12-18,Bronze
+QM-C00705,Ayaan,Mehta,Bengaluru,Karnataka,2021-03-11,Bronze
+QM-C00706,Saanvi,Patel,Hyderabad,Telangana,2024-12-15,Gold
+QM-C00707,Saanvi,Gupta,Jaipur,Rajasthan,2022-01-07,Bronze
+QM-C00708,Myra,Mehta,Ahmedabad,Gujarat,2023-11-05,Gold
+QM-C00709,Vivaan,Reddy,Chennai,Tamil Nadu,2023-10-17,Silver
+QM-C00710,Arjun,Iyer,Chennai,Tamil Nadu,2021-04-16,Silver
+QM-C00711,Saanvi,Verma,Chennai,Tamil Nadu,2022-04-20,Bronze
+QM-C00712,Riya,Reddy,Lucknow,Uttar Pradesh,2021-11-15,Bronze
+QM-C00713,Krishna,Reddy,Bengaluru,Karnataka,2019-09-01,Silver
+QM-C00714,Krishna,Iyer,Chennai,Tamil Nadu,2022-05-10,Bronze
+QM-C00715,Vivaan,Rao,Ahmedabad,Gujarat,2023-11-19,Bronze
+QM-C00716,Aarav,Patel,Hyderabad,Telangana,2023-02-21,Platinum
+QM-C00717,Navya,Gupta,Jaipur,Rajasthan,2019-11-23,Bronze
+QM-C00718,Myra,Verma,Pune,Maharashtra,2023-01-29,Platinum
+QM-C00719,Saanvi,Verma,Kolkata,West Bengal,2021-09-07,Bronze
+QM-C00720,Vihaan,Reddy,Hyderabad,Telangana,2023-04-05,Gold
+QM-C00721,Reyansh,Gupta,Hyderabad,Telangana,2024-08-08,Bronze
+QM-C00722,Navya,Sharma,Jaipur,Rajasthan,2020-03-16,Gold
+QM-C00723,Saanvi,Nair,Ahmedabad,Gujarat,2019-12-07,Platinum
+QM-C00724,Reyansh,Nair,Chennai,Tamil Nadu,2019-11-19,Gold
+QM-C00725,Ananya,Rao,Bengaluru,Karnataka,2023-06-16,Platinum
+QM-C00726,Ayaan,Rao,Mumbai,Maharashtra,2024-05-29,Platinum
+QM-C00727,Ananya,Patel,Pune,Maharashtra,2022-09-04,Bronze
+QM-C00728,Sai,Patel,Bengaluru,Karnataka,2021-01-08,Silver
+QM-C00729,Vihaan,Sharma,Hyderabad,Telangana,2024-12-29,Bronze
+QM-C00730,Krishna,Patel,Bengaluru,Karnataka,2020-10-22,Bronze
+QM-C00731,Krishna,Sharma,Delhi,Delhi,2024-08-16,Gold
+QM-C00732,Vihaan,Sharma,Pune,Maharashtra,2019-10-14,Bronze
+QM-C00733,Aarav,Sharma,Kolkata,West Bengal,2022-07-02,Platinum
+QM-C00734,Ishaan,Singh,Kolkata,West Bengal,2024-04-03,Gold
+QM-C00735,Aarav,Singh,Delhi,Delhi,2019-10-21,Gold
+QM-C00736,Navya,Mehta,Kolkata,West Bengal,2022-06-23,Gold
+QM-C00737,Krishna,Singh,Delhi,Delhi,2021-04-23,Platinum
+QM-C00738,Anika,Rao,Chennai,Tamil Nadu,2021-10-20,Gold
+QM-C00739,Riya,Iyer,Mumbai,Maharashtra,2022-09-16,Bronze
+QM-C00740,Saanvi,Nair,Chennai,Tamil Nadu,2020-09-07,Bronze
+QM-C00741,Vihaan,Patel,Kolkata,West Bengal,2023-10-05,Silver
+QM-C00742,Ishaan,Reddy,Jaipur,Rajasthan,2020-02-21,Gold
+QM-C00743,Pari,Gupta,Kolkata,West Bengal,2020-01-09,Platinum
+QM-C00744,Navya,Gupta,Mumbai,Maharashtra,2022-09-28,Gold
+QM-C00745,Anika,Nair,Jaipur,Rajasthan,2019-03-29,Platinum
+QM-C00746,Myra,Singh,Delhi,Delhi,2023-10-29,Gold
+QM-C00747,Vivaan,Mehta,Pune,Maharashtra,2023-03-11,Silver
+QM-C00748,Saanvi,Verma,Jaipur,Rajasthan,2019-08-07,Bronze
+QM-C00749,Krishna,Sharma,Lucknow,Uttar Pradesh,2019-06-19,Gold
+QM-C00750,Navya,Reddy,Delhi,Delhi,2019-09-22,Platinum
+QM-C00751,Saanvi,Nair,Jaipur,Rajasthan,2021-09-16,Silver
+QM-C00752,Ayaan,Singh,Kolkata,West Bengal,2021-09-20,Platinum
+QM-C00753,Ishaan,Nair,Ahmedabad,Gujarat,2023-05-08,Bronze
+QM-C00754,Aadhya,Rao,Jaipur,Rajasthan,2023-12-19,Platinum
+QM-C00755,Riya,Gupta,Delhi,Delhi,2020-02-11,Bronze
+QM-C00756,Krishna,Verma,Chennai,Tamil Nadu,2020-10-26,Silver
+QM-C00757,Pari,Verma,Pune,Maharashtra,2019-04-02,Platinum
+QM-C00758,Arjun,Gupta,Chennai,Tamil Nadu,2020-01-11,Gold
+QM-C00759,Vihaan,Rao,Kolkata,West Bengal,2019-07-01,Bronze
+QM-C00760,Diya,Rao,Mumbai,Maharashtra,2023-05-30,Gold
+QM-C00761,Saanvi,Reddy,Jaipur,Rajasthan,2021-09-07,Bronze
+QM-C00762,Reyansh,Nair,Hyderabad,Telangana,2024-10-02,Gold
+QM-C00763,Aadhya,Sharma,Mumbai,Maharashtra,2024-10-02,Silver
+QM-C00764,Vihaan,Verma,Ahmedabad,Gujarat,2020-07-22,Silver
+QM-C00765,Saanvi,Mehta,Pune,Maharashtra,2020-03-19,Platinum
+QM-C00766,Aarav,Rao,Hyderabad,Telangana,2019-08-30,Bronze
+QM-C00767,Navya,Verma,Kolkata,West Bengal,2022-05-13,Silver
+QM-C00768,Anika,Rao,Lucknow,Uttar Pradesh,2019-08-28,Platinum
+QM-C00769,Sai,Rao,Lucknow,Uttar Pradesh,2022-08-11,Bronze
+QM-C00770,Pari,Rao,Delhi,Delhi,2020-09-05,Platinum
+QM-C00771,Sai,Reddy,Delhi,Delhi,2019-06-15,Gold
+QM-C00772,Myra,Nair,Ahmedabad,Gujarat,2020-01-30,Silver
+QM-C00773,Vihaan,Rao,Jaipur,Rajasthan,2021-10-24,Gold
+QM-C00774,Krishna,Singh,Chennai,Tamil Nadu,2021-06-27,Silver
+QM-C00775,Anika,Verma,Kolkata,West Bengal,2021-02-22,Platinum
+QM-C00776,Vivaan,Gupta,Delhi,Delhi,2022-03-02,Platinum
+QM-C00777,Saanvi,Verma,Delhi,Delhi,2020-07-26,Gold
+QM-C00778,Ishaan,Nair,Hyderabad,Telangana,2020-10-23,Silver
+QM-C00779,Vihaan,Iyer,Jaipur,Rajasthan,2024-09-03,Platinum
+QM-C00780,Ira,Nair,Chennai,Tamil Nadu,2024-05-06,Gold
+QM-C00781,Myra,Rao,Hyderabad,Telangana,2021-05-21,Gold
+QM-C00782,Diya,Nair,Delhi,Delhi,2022-04-12,Bronze
+QM-C00783,Reyansh,Singh,Chennai,Tamil Nadu,2020-05-03,Bronze
+QM-C00784,Ira,Singh,Ahmedabad,Gujarat,2023-11-08,Gold
+QM-C00785,Aadhya,Iyer,Chennai,Tamil Nadu,2021-05-07,Platinum
+QM-C00786,Aditya,Iyer,Mumbai,Maharashtra,2019-11-16,Silver
+QM-C00787,Pari,Gupta,Pune,Maharashtra,2019-02-19,Bronze
+QM-C00788,Ishaan,Rao,Mumbai,Maharashtra,2023-11-21,Bronze
+QM-C00789,Krishna,Patel,Mumbai,Maharashtra,2021-05-23,Gold
+QM-C00790,Ananya,Gupta,Ahmedabad,Gujarat,2019-08-01,Platinum
+QM-C00791,Ananya,Nair,Kolkata,West Bengal,2019-03-13,Bronze
+QM-C00792,Navya,Nair,Chennai,Tamil Nadu,2023-10-23,Gold
+QM-C00793,Aadhya,Nair,Jaipur,Rajasthan,2021-01-16,Silver
+QM-C00794,Ananya,Mehta,Kolkata,West Bengal,2019-05-02,Platinum
+QM-C00795,Vihaan,Singh,Delhi,Delhi,2023-01-23,Bronze
+QM-C00796,Ishaan,Sharma,Bengaluru,Karnataka,2021-02-26,Bronze
+QM-C00797,Diya,Rao,Chennai,Tamil Nadu,2021-02-05,Bronze
+QM-C00798,Aditya,Singh,Hyderabad,Telangana,2022-09-23,Bronze
+QM-C00799,Aditya,Iyer,Ahmedabad,Gujarat,2023-10-11,Gold
+QM-C00800,Vihaan,Verma,Delhi,Delhi,2020-03-15,Platinum

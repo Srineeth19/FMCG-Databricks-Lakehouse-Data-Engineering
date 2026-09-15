@@ -1,0 +1,9 @@
+store_id,store_name,city,state,store_type,opened_date
+QM-S001,QM-S-Store-Hyderabad-1,Hyderabad,Telangana,Supermarket,2016-01-02
+QM-S002,QM-S-Store-Kolkata-2,Kolkata,West Bengal,Convenience,2022-11-15
+QM-S003,QM-S-Store-Hyderabad-3,Hyderabad,Telangana,Supermarket,2021-09-06
+QM-S004,QM-S-Store-Delhi-4,Delhi,Delhi,Supermarket,2015-10-16
+QM-S005,QM-S-Store-Delhi-5,Delhi,Delhi,Hypermarket,2020-10-21
+QM-S006,QM-S-Store-Chennai-6,Chennai,Tamil Nadu,Hypermarket,2016-03-03
+QM-S007,QM-S-Store-Lucknow-7,Lucknow,Uttar Pradesh,Supermarket,2022-10-04
+QM-S008,QM-S-Store-Pune-8,Pune,Maharashtra,Hypermarket,2018-08-08

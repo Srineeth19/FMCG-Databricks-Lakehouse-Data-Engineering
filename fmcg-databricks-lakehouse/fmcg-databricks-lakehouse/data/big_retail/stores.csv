@@ -1,0 +1,41 @@
+store_id,store_name,city,state,store_type,opened_date
+BM-S001,BM-S-Store-Jaipur-1,Jaipur,Rajasthan,Hypermarket,2020-08-15
+BM-S002,BM-S-Store-Chennai-2,Chennai,Tamil Nadu,Hypermarket,2021-04-03
+BM-S003,BM-S-Store-Kolkata-3,Kolkata,West Bengal,Hypermarket,2019-10-31
+BM-S004,BM-S-Store-Lucknow-4,Lucknow,Uttar Pradesh,Convenience,2023-05-29
+BM-S005,BM-S-Store-Lucknow-5,Lucknow,Uttar Pradesh,Hypermarket,2019-05-18
+BM-S006,BM-S-Store-Bengaluru-6,Bengaluru,Karnataka,Hypermarket,2020-02-04
+BM-S007,BM-S-Store-Mumbai-7,Mumbai,Maharashtra,Convenience,2023-06-13
+BM-S008,BM-S-Store-Pune-8,Pune,Maharashtra,Convenience,2019-12-04
+BM-S009,BM-S-Store-Bengaluru-9,Bengaluru,Karnataka,Convenience,2015-11-22
+BM-S010,BM-S-Store-Chennai-10,Chennai,Tamil Nadu,Convenience,2020-10-16
+BM-S011,BM-S-Store-Bengaluru-11,Bengaluru,Karnataka,Convenience,2018-03-16
+BM-S012,BM-S-Store-Hyderabad-12,Hyderabad,Telangana,Supermarket,2021-11-22
+BM-S013,BM-S-Store-Delhi-13,Delhi,Delhi,Hypermarket,2023-05-23
+BM-S014,BM-S-Store-Lucknow-14,Lucknow,Uttar Pradesh,Hypermarket,2021-05-12
+BM-S015,BM-S-Store-Kolkata-15,Kolkata,West Bengal,Hypermarket,2017-02-23
+BM-S016,BM-S-Store-Bengaluru-16,Bengaluru,Karnataka,Convenience,2016-02-15
+BM-S017,BM-S-Store-Hyderabad-17,Hyderabad,Telangana,Hypermarket,2020-07-08
+BM-S018,BM-S-Store-Hyderabad-18,Hyderabad,Telangana,Hypermarket,2018-10-28
+BM-S019,BM-S-Store-Bengaluru-19,Bengaluru,Karnataka,Hypermarket,2017-01-01
+BM-S020,BM-S-Store-Hyderabad-20,Hyderabad,Telangana,Hypermarket,2021-09-27
+BM-S021,BM-S-Store-Delhi-21,Delhi,Delhi,Supermarket,2023-04-20
+BM-S022,BM-S-Store-Delhi-22,Delhi,Delhi,Hypermarket,2020-08-11
+BM-S023,BM-S-Store-Jaipur-23,Jaipur,Rajasthan,Convenience,2015-04-04
+BM-S024,BM-S-Store-Kolkata-24,Kolkata,West Bengal,Supermarket,2023-01-10
+BM-S025,BM-S-Store-Lucknow-25,Lucknow,Uttar Pradesh,Supermarket,2023-05-14
+BM-S026,BM-S-Store-Bengaluru-26,Bengaluru,Karnataka,Hypermarket,2022-05-17
+BM-S027,BM-S-Store-Jaipur-27,Jaipur,Rajasthan,Supermarket,2021-01-20
+BM-S028,BM-S-Store-Lucknow-28,Lucknow,Uttar Pradesh,Hypermarket,2022-11-11
+BM-S029,BM-S-Store-Hyderabad-29,Hyderabad,Telangana,Supermarket,2016-03-28
+BM-S030,BM-S-Store-Delhi-30,Delhi,Delhi,Supermarket,2021-12-10
+BM-S031,BM-S-Store-Delhi-31,Delhi,Delhi,Supermarket,2016-07-29
+BM-S032,BM-S-Store-Hyderabad-32,Hyderabad,Telangana,Supermarket,2022-07-24
+BM-S033,BM-S-Store-Mumbai-33,Mumbai,Maharashtra,Supermarket,2015-07-15
+BM-S034,BM-S-Store-Jaipur-34,Jaipur,Rajasthan,Convenience,2018-12-04
+BM-S035,BM-S-Store-Kolkata-35,Kolkata,West Bengal,Convenience,2015-12-23
+BM-S036,BM-S-Store-Mumbai-36,Mumbai,Maharashtra,Supermarket,2019-04-28
+BM-S037,BM-S-Store-Lucknow-37,Lucknow,Uttar Pradesh,Hypermarket,2022-05-20
+BM-S038,BM-S-Store-Jaipur-38,Jaipur,Rajasthan,Hypermarket,2019-02-02
+BM-S039,BM-S-Store-Kolkata-39,Kolkata,West Bengal,Supermarket,2015-02-04
+BM-S040,BM-S-Store-Jaipur-40,Jaipur,Rajasthan,Supermarket,2021-12-15

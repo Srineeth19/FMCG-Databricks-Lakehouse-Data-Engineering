@@ -1,0 +1,67 @@
+{
+  "name": "fmcg_lakehouse_pipeline",
+  "description": "End-to-end medallion pipeline: bronze ingestion -> silver conformance -> silver fact merge -> gold denormalized + aggregates. Historical fact load is a separate one-time task; daily runs use the incremental task.",
+  "schedule": {
+    "quartz_cron_expression": "0 0 3 * * ?",
+    "timezone_id": "Asia/Kolkata",
+    "pause_status": "UNPAUSED"
+  },
+  "tasks": [
+    {
+      "task_key": "setup_catalog_schema",
+      "notebook_task": { "notebook_path": "/Repos/fmcg-databricks-lakehouse/notebooks/00_setup_catalog_schema" }
+    },
+    {
+      "task_key": "bronze_ingestion",
+      "depends_on": [{ "task_key": "setup_catalog_schema" }],
+      "notebook_task": {
+        "notebook_path": "/Repos/fmcg-databricks-lakehouse/notebooks/01_bronze_ingestion_s3",
+        "base_parameters": { "s3_bucket": "fmcg-lakehouse-demo" }
+      }
+    },
+    {
+      "task_key": "silver_dim_customer",
+      "depends_on": [{ "task_key": "bronze_ingestion" }],
+      "notebook_task": { "notebook_path": "/Repos/fmcg-databricks-lakehouse/notebooks/02_silver_dim_customer" }
+    },
+    {
+      "task_key": "silver_dim_product",
+      "depends_on": [{ "task_key": "bronze_ingestion" }],
+      "notebook_task": { "notebook_path": "/Repos/fmcg-databricks-lakehouse/notebooks/03_silver_dim_product" }
+    },
+    {
+      "task_key": "silver_dim_store",
+      "depends_on": [{ "task_key": "bronze_ingestion" }],
+      "notebook_task": { "notebook_path": "/Repos/fmcg-databricks-lakehouse/notebooks/04_silver_dim_store" }
+    },
+    {
+      "task_key": "silver_dim_date",
+      "depends_on": [{ "task_key": "bronze_ingestion" }],
+      "notebook_task": { "notebook_path": "/Repos/fmcg-databricks-lakehouse/notebooks/05_silver_dim_date" }
+    },
+    {
+      "task_key": "silver_fact_sales_incremental",
+      "depends_on": [
+        { "task_key": "silver_dim_customer" },
+        { "task_key": "silver_dim_product" },
+        { "task_key": "silver_dim_store" },
+        { "task_key": "silver_dim_date" }
+      ],
+      "notebook_task": { "notebook_path": "/Repos/fmcg-databricks-lakehouse/notebooks/07_silver_fact_sales_incremental" }
+    },
+    {
+      "task_key": "gold_denormalized_sales",
+      "depends_on": [{ "task_key": "silver_fact_sales_incremental" }],
+      "notebook_task": { "notebook_path": "/Repos/fmcg-databricks-lakehouse/notebooks/08_gold_denormalized_sales" }
+    },
+    {
+      "task_key": "gold_aggregates",
+      "depends_on": [{ "task_key": "gold_denormalized_sales" }],
+      "notebook_task": { "notebook_path": "/Repos/fmcg-databricks-lakehouse/notebooks/09_gold_aggregates_for_dashboard" }
+    }
+  ],
+  "email_notifications": {
+    "on_failure": ["data-eng-team@example.com"]
+  },
+  "notes": "Run '06_silver_fact_sales_historical' manually ONCE (outside this job) to backfill before turning on the daily schedule above."
+}

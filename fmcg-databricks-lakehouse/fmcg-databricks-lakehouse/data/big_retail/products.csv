@@ -1,0 +1,41 @@
+product_id,product_name,category,brand,unit_price,unit_of_measure
+BM-P0001,Cola 500ml,Beverages,BeveragesCo,421.04,EA
+BM-P0002,Orange Juice 1L,Beverages,BeveragesCo,30.88,EA
+BM-P0003,Mineral Water 1L,Beverages,BeveragesCo,189.64,EA
+BM-P0004,Energy Drink 250ml,Beverages,BeveragesCo,156.74,EA
+BM-P0005,Instant Coffee 100g,Beverages,BeveragesCo,482.66,EA
+BM-P0006,Potato Chips 150g,Snacks,SnacksCo,444.7,EA
+BM-P0007,Salted Peanuts 200g,Snacks,SnacksCo,581.53,EA
+BM-P0008,Choco Cookies 300g,Snacks,SnacksCo,70.21,EA
+BM-P0009,Popcorn 100g,Snacks,SnacksCo,282.92,EA
+BM-P0010,Namkeen Mix 400g,Snacks,SnacksCo,33.92,EA
+BM-P0011,Shampoo 200ml,Personal Care,PersonalCo,153.84,EA
+BM-P0012,Toothpaste 100g,Personal Care,PersonalCo,335.9,EA
+BM-P0013,Bath Soap 125g,Personal Care,PersonalCo,31.85,EA
+BM-P0014,Hand Sanitizer 100ml,Personal Care,PersonalCo,141.26,EA
+BM-P0015,Body Lotion 200ml,Personal Care,PersonalCo,427.68,EA
+BM-P0016,Dish Wash Liquid 500ml,Home Care,HomeCo,361.04,EA
+BM-P0017,Floor Cleaner 1L,Home Care,HomeCo,154.98,EA
+BM-P0018,Laundry Detergent 1kg,Home Care,HomeCo,389.18,EA
+BM-P0019,Air Freshener 300ml,Home Care,HomeCo,528.99,EA
+BM-P0020,Toilet Cleaner 500ml,Home Care,HomeCo,19.13,EA
+BM-P0021,Basmati Rice 5kg,Staples,StaplesCo,526.7,EA
+BM-P0022,Refined Oil 1L,Staples,StaplesCo,458.32,EA
+BM-P0023,Wheat Flour 5kg,Staples,StaplesCo,231.06,EA
+BM-P0024,Sugar 1kg,Staples,StaplesCo,113.73,EA
+BM-P0025,Tea Leaves 250g,Staples,StaplesCo,622.83,EA
+BM-P0026,Shampoo 200ml,Personal Care,PersonalCo,73.89,EA
+BM-P0027,Mineral Water 1L,Beverages,BeveragesCo,553.16,EA
+BM-P0028,Wheat Flour 5kg,Staples,StaplesCo,527.53,EA
+BM-P0029,Toilet Cleaner 500ml,Home Care,HomeCo,94.26,EA
+BM-P0030,Dish Wash Liquid 500ml,Home Care,HomeCo,365.55,EA
+BM-P0031,Wheat Flour 5kg,Staples,StaplesCo,381.62,EA
+BM-P0032,Cola 500ml,Beverages,BeveragesCo,434.9,EA
+BM-P0033,Shampoo 200ml,Personal Care,PersonalCo,558.13,EA
+BM-P0034,Energy Drink 250ml,Beverages,BeveragesCo,191.51,EA
+BM-P0035,Toothpaste 100g,Personal Care,PersonalCo,250.06,EA
+BM-P0036,Choco Cookies 300g,Snacks,SnacksCo,460.66,EA
+BM-P0037,Instant Coffee 100g,Beverages,BeveragesCo,418.21,EA
+BM-P0038,Refined Oil 1L,Staples,StaplesCo,118.76,EA
+BM-P0039,Laundry Detergent 1kg,Home Care,HomeCo,643.35,EA
+BM-P0040,Refined Oil 1L,Staples,StaplesCo,449.73,EA
